@@ -1,5 +1,6 @@
 # My-NLP-Learning-Notes
-# W
+# Why NLP
+
 # Reference:
 ## Textbook:
 - ### Inroduction
