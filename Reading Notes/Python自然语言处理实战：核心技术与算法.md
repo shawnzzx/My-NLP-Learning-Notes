@@ -3,6 +3,7 @@
 
 > Codes: [github-nlpinaction/learning-nlp](https://github.com/nlpinaction/learning-nlp) 
 
+> 理论与实战结合；实践性较高
 ----
 
 ![](https://github.com/shawnzzx/My-NLP-Learning-Notes/blob/master/Reading%20Notes/Resources/R1_1.PNG)
