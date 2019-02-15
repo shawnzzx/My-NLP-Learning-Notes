@@ -5,4 +5,10 @@
 
 ----
 
- https://github.com/shawnzzx/My-NLP-Learning-Notes/blob/master/Reading%20Notes/Resources/R1_1.PNG
+![](https://github.com/shawnzzx/My-NLP-Learning-Notes/blob/master/Reading%20Notes/Resources/R1_1.PNG)
+
+----
+
+![](https://github.com/shawnzzx/My-NLP-Learning-Notes/blob/master/Reading%20Notes/Resources/R1_2.PNG)
+
+----
