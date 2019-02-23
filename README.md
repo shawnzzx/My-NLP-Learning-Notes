@@ -12,7 +12,7 @@
    
 ## Website:
 - [我爱自然语言处理](http://www.52nlp.cn/)
-
+- [Deep learning](http://zh.d2l.ai/) 
 ----
 
 ## Paper:
