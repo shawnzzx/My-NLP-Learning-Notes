@@ -13,3 +13,8 @@ Codes: [github-nlpinaction/learning-nlp](https://github.com/nlpinaction/learning
 
 ![](https://github.com/shawnzzx/My-NLP-Learning-Notes/blob/master/Reading%20Notes/Resources/R1_2.PNG)
 
+----
+
+###  中文分词
+- 最大匹配法
+- HMM模型
